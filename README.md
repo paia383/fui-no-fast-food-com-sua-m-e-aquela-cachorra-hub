@@ -1,4 +1,3 @@
-# fui-no-fast-food-com-sua-m-e-aquela-cachorra
 -- Basic Script Hub for Blox Fruits
 -- Use with compatible executors like KRNL, Synapse X, etc.
 
